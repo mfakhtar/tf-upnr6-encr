@@ -1,0 +1,5 @@
+./encrypt.sh \
+alias/fawaz-kms-cmk-example \
+ap-south-1 \
+db-creds.yml \
+db-creds.yml.encrypted
